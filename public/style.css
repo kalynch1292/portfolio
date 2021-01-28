@@ -1,0 +1,160 @@
+ body{
+    background-color: #d0e8f2;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+/* .bg-light {
+    background: #ecb390;
+    box-shadow: 5px 10px;
+} */
+.jumbotron.jumbotron-fluid{
+ width: 100%;
+ flex: auto;
+ justify-content: left;
+
+}
+
+.h1, h1{
+ font-size: 75px;
+ font-family: 'Spectral', serif;
+ color: #456268;
+ text-align: center;
+ 
+
+}
+.h2, h2{
+    font-size: 50px;
+    font-family: 'Spectral', serif;
+    color: #456268;
+    text-align: center; 
+}
+
+.h3, h3{
+    font-size: 25px;
+    font-family: 'Spectral', serif;
+    color: #456268;
+    text-align: center; 
+}
+.card-text.ml-2{
+    font-family: 'Karla', sans-serif;
+    color: #456268;
+    text-align: center;
+}
+
+.proImg{
+    height: 430px;
+    width: 300px;
+    border-radius: 8px;
+    display: block;
+    float: right;
+}
+
+/* .img{
+    justify-content: center;
+} */
+
+.bg-light {
+    background-color: #ecf1f3 !important;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    /* box-shadow: 5px 5px 5px 5px #c1cec1; */
+    -moz-box-shadow:    inset 0 0 10px #c1cec1;
+   -webkit-box-shadow: inset 0 0 10px #c1cec1;
+   box-shadow:         inset 0 0 10px 
+
+}
+
+.col-sm-3.col-3{
+    padding-bottom: 10px;
+}
+.works{
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    right: 0%;
+}
+.lead{
+    font-family: 'Karla', sans-serif;
+    color: #456268;
+    text-align: center;
+}
+
+.covidImg{
+    height: 300px;
+    width: 400px;
+    flex: auto;
+    justify-content: left;
+    border-radius: 8px
+}
+
+.mr-auto {
+    margin-right: 0 !important;
+}
+.navbar-toggleable-md .navbar-collapse {         
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;  
+} 
+
+ hr:not([size]) {
+    height: 3px;
+    color: #79a3b1;
+}
+.nav-linkO{
+    font-family: 'Karla', sans-serif;
+    color: #456268;
+    justify-content: center;
+    font-size: 35px;
+}
+
+.workTitle{
+    font-family: 'Karla', sans-serif;
+    color: #456268;
+    justify-content: left;
+    font-size: 74px;
+}
+
+.col1{
+    background: red;
+    -moz-box-shadow:    inset 0 0 10px #c1cec1;
+    -webkit-box-shadow: inset 0 0 10px #c1cec1;
+    box-shadow:         inset 0 0 10px;
+    padding: 10px;
+ 
+    
+}
+
+.leads{
+    font-family: 'Karla', sans-serif;
+    color: #456268;
+    justify-content: center;
+    font-size: 20px;
+}
+.titleConnect{
+    font-family: 'Karla', sans-serif;
+    color: #456268;
+    text-align: left;
+    font-size: 55px;
+}
+
+.container{
+    width: 50%;
+   float: left;
+}
+
+
+.navbar-brand{
+    font-family: 'Karla', sans-serif;
+    color: #456268;
+    text-align: left;
+    font-size: 25px;
+}
+.float-right{
+    font-family: 'Karla', sans-serif;
+    color: #456268;
+    text-align: left;
+    font-size: 15px;
+}
+.featurette-image.img-fluid.mx-auto{
+    border-radius: 8px;
+    padding: 3px;
+}
